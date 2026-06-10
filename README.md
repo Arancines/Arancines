@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💜 Apaixonada por tecnologia e por desenvolver soluções <br>🎓 Analista/Desenvolvedora de Sistemas em formação <br>💻 Aprendendo a Desenvolver Front-end e Back-end <br>🎮 Gamer nas horas vagas
+💜 Gosto muito de tecnologia, aprendendo a desenvolver soluções <br>🎓 Analista/Desenvolvedora de Sistemas em formação <br>💻 Aprendendo a Desenvolver Front-end e Back-end <br>🎮 Gamer nas horas vagas
 
 
 ## 🌐 Redes Sociais:
